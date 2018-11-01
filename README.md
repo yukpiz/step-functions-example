@@ -1,7 +1,4 @@
-1. 定時に発火してLambda1が実行されること
-2. 完了後、Lambda2がレスポンスfalseを返すまで1分おきに繰り返し実行されること
-
-```
+```json
 {
   "StartAt": "Lambda1",
   "States": {
@@ -37,3 +34,4 @@
 }
 ```
 
+![step-functions](https://i.gyazo.com/1b97cde3517a4d517858ebf9197992ab.png)
