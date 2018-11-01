@@ -1,5 +1,7 @@
 # step-functions-example
 
+![step-functions](https://i.gyazo.com/1b97cde3517a4d517858ebf9197992ab.png)
+
 ```json
 {
   "StartAt": "Lambda1",
@@ -35,5 +37,3 @@
   }
 }
 ```
-
-![step-functions](https://i.gyazo.com/1b97cde3517a4d517858ebf9197992ab.png)
